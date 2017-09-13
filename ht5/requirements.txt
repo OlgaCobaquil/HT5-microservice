@@ -2,8 +2,6 @@ Django==1.11.4
 Markdown==2.6.9
 PAM<=0.4.2
 Pillow<=2.3.0
-Twisted-Core<=13.2.0
-Twisted-Web<=13.2.0
 apt-xapian-index<=0.45
 argparse<=1.2.1
 chardet<=2.0.1
@@ -14,7 +12,7 @@ debtagshw<=0.1
 defer<=1.0.6
 dirspec<=13.10
 django-filter<=1.0.4
-djangorestframework==3.6.3
+djangorestframework<=3.6.3
 docopt<=0.6.2
 gunicorn<=19.7.1
 html5lib<=0.999
@@ -24,7 +22,7 @@ oauthlib<=2.0.2
 oneconf<=0.3.7.14.04.1
 packaging<=16.8
 pexpect<=3.1
-pika==0.11.0
+pika<=0.11.0
 pip-upgrader<=1.4.3
 piston-mini-client<=0.7.5
 psutil<=1.2.1
